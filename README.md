@@ -1,2 +1,6 @@
-# SHOstnamesDAN
-Shodan hostnames field extractor alive checker
+  ___ _  _  ___     _                          ___   _   _  _ 
+ / __| || |/ _ \ __| |_ _ _  __ _ _ __  ___ __|   \ /_\ | \| |
+ \__ \ __ | (_) (_-<  _| ' \/ _` | '  \/ -_|_-< |) / _ \| .` |
+ |___/_||_|\___//__/\__|_||_\__,_|_|_|_\___/__/___/_/ \_\_|\_|
+                                                              
+Extract hostnames from a shodan json.gz, get response status,size & html title etc
